@@ -21,7 +21,7 @@ pdm install
 
 ## Notebooks
 
-- [Prediction Model Using Logistic Regression](./sg-uni-model.ipynb).
+- [Prediction Model Using Logistic Regression](./notebooks/sg-uni-model.ipynb).
 
 ## Todo
 
